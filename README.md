@@ -22,7 +22,11 @@ Los modelos a imprimir son los que están del canal ["3D printed Face Mask A4 sh
 
 Se está hablando mucho de la versión 0.4, que es más fácil de imprimir, y parece (hoy, 22 de marzo) que va a ser la recomendada en breve:
 
-* Visera_Fija_Cerrado_v0.4.stl ([STL](https://www.thingiverse.com/download:7845404), [copia del STL](Visera_Fija_Cerrado_v0.4.stl)).
+* Visera_Fija_Cerrada_v0.4_sin_logo.stl ([STL](https://www.thingiverse.com/download:7846230), [copia del STL](Visera_Fija_Cerrada_v0.4_sin_logo.stl)).
+
+* Visera_Fija_Cerrada_v0.4_con_cinta.stl ([STL](https://cdn.thingiverse.com/assets/a8/d3/6b/86/02/Visera_Fija_Cerrada_v0.4_con_cinta_sin_logo.stl), [copia del STL](Visera_Fija_Cerrada_v0.4_con_cinta_sin_logo.stl)). Igual que el modelo anterior, pero con una cinta para sosterner la visera pasándola sobre la cabeza.
+
+* Instrucciones de montaje: [video](https://youtu.be/vfoddSzQERM)
 
 (Como Thingiverse está un poco colapsado y a veces tarda mucho en cargar o no carga, incluyo enlaces directos y enlace copia de los diseños STL (pero siempre que puedas, intenta descargarlos de Thigiverse, por si se hubieran actualizado):
 
