@@ -39,6 +39,8 @@ Para las pantallas de plástico transparente, se recomienda que sean de PVC O PE
 
 * Desinfecta y empaqueta el material cuando vayas a llevarlo a un punto de recogida o hayas acordado que vengan a recogerlo a tu casa. Si tienes problemas o dudas, pregunta en el grupo de logística (sobre la desinfección, mira más abajo). Lee atentamente la siguiente sección.
 
+* Imprime el documento [PROTOCOLO_ACTUACION_ENTREGA](PROTOCOLO_ACTUACION_ENTREGA_V2.pdf), rellénalo, e inclúyelo con la bolsa, para darlo cuando realices la entrega de tu material.
+
 ### Desinfección y empaquetado de material
 
 **Atención: Este proceso deberá realizarse con guantes y mascarilla, para evitar que los materiales que producimos vayan infectados**
