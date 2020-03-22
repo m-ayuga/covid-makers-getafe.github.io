@@ -26,14 +26,16 @@ Para las pantallas de plástico transparente, se recomienda que sean de PVC O PE
 
 ## <a name="proceso">Proceso completo (datos para el grupo de Getafe)</a>
 
-* Antes de Empezar: Lee el manual de impresión, elije el modelo a imprimir, calibra tu impresora. Si necesitas ayuda, pregunta en el grupo de fabricación.
+* Antes de Empezar: Lee este manual de impresión, elije el modelo a imprimir, calibra tu impresora. Si necesitas ayuda, pregunta en el grupo de fabricación.
 
 * Imprime. Si necesitas ayuda, pregunta en el grupo de fabricación.
 
-* Cuando tengas material impreso, rellena la hoja de cálculo [https://docs.google.com/spreadsheets/d/1K7m4dV5NfDMxKLav6jHCdzQTZqJiKSewGEd3d09-3ik/edit#gid=0](https://docs.google.com/spreadsheets/d/1K7m4dV5NfDMxKLav6jHCdzQTZqJiKSewGEd3d09-3ik/edit#gid=0). Si tienes problemas o dudas para hacerlo, pregunta en el grupo de logística.
+* Cuando tengas material impreso en 3D, rellena la hoja de cálculo de inventario [https://docs.google.com/spreadsheets/d/1K7m4dV5NfDMxKLav6jHCdzQTZqJiKSewGEd3d09-3ik/edit#gid=0](https://docs.google.com/spreadsheets/d/1K7m4dV5NfDMxKLav6jHCdzQTZqJiKSewGEd3d09-3ik/edit#gid=0). Si tienes problemas o dudas para hacerlo, pregunta en el grupo de logística.
+* No olvides rellenar la hoja de Logística con la zona en la que vives 
+[https://docs.google.com/spreadsheets/d/1TF07XATJxQqFkj-0rwIvqJ4JImOIJKJ8Mxx6wXUWriM/edit#gid=0](https://docs.google.com/spreadsheets/d/1TF07XATJxQqFkj-0rwIvqJ4JImOIJKJ8Mxx6wXUWriM/edit#gid=0)
 
   - Importantísimo: rellena la columna  "metro" con la parada más cercana a tu domicilio.
-  -  Rellena la columna Salud: Con los siguientes valores: "SANO" (si estás bien con respecto al COVID19, ni tienes razones para pensar que podrías tener la infección), o "CON SINTOMAS" (si tienes síntomas, o has sido diagnosticado positivamente, o alguien en tu domicilio tiene síntomas o ha sido diagnosticado).
+  - Rellena la columna SANO/CON SINTOMAS: Con los siguientes valores: "SANO" (si estás bien con respecto al COVID19, ni tienes razones para pensar que podrías tener la infección), o "CON SINTOMAS" (si tienes síntomas, o has sido diagnosticado positivamente, o alguien en tu domicilio tiene síntomas o ha sido diagnosticado).
 
 * Desinfecta y empaqueta el material cuando vayas a llevarlo a un punto de recogida o hayas acordado que vengan a recogerlo a tu casa. Si tienes problemas o dudas, pregunta en el grupo de logística (sobre la desinfección, mira más abajo). Lee atentamente la siguiente sección.
 
