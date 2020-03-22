@@ -26,7 +26,7 @@ Se está hablando mucho de la versión 0.4, que es más fácil de imprimir, y pa
 
 * Visera_Fija_Cerrada_v0.4_con_cinta.stl ([STL](https://cdn.thingiverse.com/assets/a8/d3/6b/86/02/Visera_Fija_Cerrada_v0.4_con_cinta_sin_logo.stl), [copia del STL](Visera_Fija_Cerrada_v0.4_con_cinta_sin_logo.stl)). Igual que el modelo anterior, pero con una cinta para sosterner la visera pasándola sobre la cabeza.
 
-* Instrucciones de montaje: [video](https://youtu.be/vfoddSzQERM)
+* Instrucciones de montaje: [video](https://youtu.be/vfoddSzQERM), [PDF](https://www.thingiverse.com/download:7845433), [copia del PDF](Manual_de_ensamblaje_mascara_protectora_v1.1.pdf).
 
 (Como Thingiverse está un poco colapsado y a veces tarda mucho en cargar o no carga, incluyo enlaces directos y enlace copia de los diseños STL (pero siempre que puedas, intenta descargarlos de Thigiverse, por si se hubieran actualizado):
 
