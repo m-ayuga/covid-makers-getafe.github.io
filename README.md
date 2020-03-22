@@ -14,11 +14,15 @@ El grupo de Madrid está, al menos por ahora, centrado en la impresión de viser
 
 Antes de imprimir, conviene realizar el siguiente test:
 
-* [Flow Calibator](https://www.thingiverse.com/thing:1662342) ([STL](https://cdn.thingiverse.com/assets/43/12/fc/91/0b/flow_calibrator.stl), [copia del STL](covid-data/flow_calibrator.stl)), por si el anterior no te descarga] para hacer una prueba y calibrar adecuadamente, antes de imprimir. Se tarda unos 6 min en imprimir en mi Anet8. Una vez impreso, el cilindro ha de entrar en la anilla, y atravesarla, lo más justo posible pero sin que se atasque. Si no la atraviesa bien, modifica el parámero "Horizontal Expansion" en Cura. A mi me ha funcionado bien con un valor de -0.15.
+* [Flow Calibator](https://www.thingiverse.com/thing:1662342) ([STL](https://cdn.thingiverse.com/assets/43/12/fc/91/0b/flow_calibrator.stl), [copia del STL](flow_calibrator.stl)), por si el anterior no te descarga] para hacer una prueba y calibrar adecuadamente, antes de imprimir. Se tarda unos 6 min en imprimir en mi Anet8. Una vez impreso, el cilindro ha de entrar en la anilla, y atravesarla, lo más justo posible pero sin que se atasque. Si no la atraviesa bien, modifica el parámero "Horizontal Expansion" en Cura. A mi me ha funcionado bien con un valor de -0.15.
 
 Los modelos a imprimir son los que están del canal ["3D printed Face Mask A4 sheet" de Thingiverse](https://www.thingiverse.com/thing:4228123). Después de ver la descripción en este enlace, puedes ver los ficheros en la pestaña de ficheros. Actualmente (21 de marzo), el que está recomendado para imprimir es:
 
-* Visera3.6b_cerrada_mas_simple ([STL](https://www.thingiverse.com/download:7842326), [copia del STL](covid-data/Visera_3.6b_cerrada__mas_simple.stl)). Se recomienda imprimir con los siguientes parámetros (que se pueden ajustar en Cura), para un boquilla (nozzle) de 0.4 mm de diámetro: altura de capa (layer height), 0.28mm; relleno (infill), 50%, sin soporte (con "skirt"), 2 capas de base (bottom layers), 4 capas superiores (top layers). En mi Anet8 tarda unas cuatro horas (si alguien sabe cómo bajar este tiempo que me diga), y he tenido que imprimir con cama caliente porque si no, se me acaba despegando después de hacer unas pocas capas.
+* Visera3.6b_cerrada_mas_simple ([STL](https://www.thingiverse.com/download:7842326), [copia del STL](Visera_3.6b_cerrada__mas_simple.stl)). Se recomienda imprimir con los siguientes parámetros (que se pueden ajustar en Cura), para un boquilla (nozzle) de 0.4 mm de diámetro: altura de capa (layer height), 0.28mm; relleno (infill), 50%, sin soporte (con "skirt"), 2 capas de base (bottom layers), 4 capas superiores (top layers). En mi Anet8 tarda unas cuatro horas (si alguien sabe cómo bajar este tiempo que me diga), y he tenido que imprimir con cama caliente porque si no, se me acaba despegando después de hacer unas pocas capas.
+
+Se está hablando mucho de la versión 0.4, que es más fácil de imprimir, y parece (hoy, 22 de marzo) que va a ser la recomendada en breve:
+
+* Visera_Fija_Cerrado_v0.4.stl ([STL](https://www.thingiverse.com/download:7845404), [copia del STL](Visera_Fija_Cerrado_v0.4.stl)).
 
 (Como Thingiverse está un poco colapsado y a veces tarda mucho en cargar o no carga, incluyo enlaces directos y enlace copia de los diseños STL (pero siempre que puedas, intenta descargarlos de Thigiverse, por si se hubieran actualizado):
 
