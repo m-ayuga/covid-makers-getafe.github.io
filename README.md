@@ -18,7 +18,7 @@ Antes de imprimir, conviene realizar el siguiente test:
 
 Los modelos a imprimir son los que están del canal ["3D printed Face Mask A4 sheet" de Thingiverse](https://www.thingiverse.com/thing:4228123). Después de ver la descripción en este enlace, puedes ver los ficheros en la pestaña de ficheros. Actualmente (21 de marzo), el que está recomendado para imprimir es:
 
-* Visera3.6b_cerrada_mas_simple ([STL](https://www.thingiverse.com/download:7842326), [copia del STL](Visera_3.6b_cerrada__mas_simple.stl)). Se recomienda imprimir con los siguientes parámetros (que se pueden ajustar en Cura), para un boquilla (nozzle) de 0.4 mm de diámetro: altura de capa (layer height), 0.28mm; relleno (infill), 50%, sin soporte (con "skirt"), 2 capas de base (bottom layers), 4 capas superiores (top layers). En mi Anet8 tarda unas cuatro horas (si alguien sabe cómo bajar este tiempo que me diga), y he tenido que imprimir con cama caliente porque si no, se me acaba despegando después de hacer unas pocas capas.
+* Visera3.6b_cerrada_mas_simple ([STL](https://www.thingiverse.com/download:7842326), [copia del STL](Visera_3.6b_cerrada__mas_simple.stl)). En Anet A8 tarda unas cuatro horas, y hace falta imprimir con cama caliente porque si no, se acaba despegando después de hacer unas pocas capas.
 
 Se está hablando mucho de la versión 0.4, que es más fácil de imprimir, y parece (hoy, 22 de marzo) que va a ser la recomendada en breve:
 
@@ -26,9 +26,11 @@ Se está hablando mucho de la versión 0.4, que es más fácil de imprimir, y pa
 
 * Visera_Fija_Cerrada_v0.4_con_cinta.stl ([STL](https://cdn.thingiverse.com/assets/a8/d3/6b/86/02/Visera_Fija_Cerrada_v0.4_con_cinta_sin_logo.stl), [copia del STL](Visera_Fija_Cerrada_v0.4_con_cinta_sin_logo.stl)). Igual que el modelo anterior, pero con una cinta para sosterner la visera pasándola sobre la cabeza.
 
-* Instrucciones de montaje: [video](https://youtu.be/vfoddSzQERM), [PDF](https://www.thingiverse.com/download:7845433), [copia del PDF](Manual_de_ensamblaje_mascara_protectora_v1.1.pdf).
+* Instrucciones de montaje: [video](https://youtu.be/vfoddSzQERM), [PDF](https://www.thingiverse.com/download:7845433), [copia del PDF](Manual_de_ensamblaje_mascara_protectora_v1.1.pdf). Muy recomendable leerlo. Incluye detalle de parámetros de impresión, ensamblaje, otros aspectos interesantes.
 
 (Como Thingiverse está un poco colapsado y a veces tarda mucho en cargar o no carga, incluyo enlaces directos y enlace copia de los diseños STL (pero siempre que puedas, intenta descargarlos de Thigiverse, por si se hubieran actualizado):
+
+En general, como parámetros de impresión (que se pueden ajustar en Cura) se ercomiendan, para un boquilla (nozzle) de 0.4 mm de diámetro: altura de capa (layer height), 0.28mm; relleno (infill), 50%, sin soporte (con "skirt"), 2 capas inferiores (bottom layers), 4 capas superiores (top layers).
 
 Para las pantallas de plástico transparente, se recomienda que sean de PVC O PET (parece que el acetato no aguanta los métodos de desinfección). Se recomeinda para este modelo que sean de 240 micras, las de 180 pueden caerse (pero se puede solucionar con cinta adhesiva, o utilizar el refuerzo diseñado al efecto ([fijación láminas.stl](https://cdn.thingiverse.com/assets/90/9a/52/09/6a/fijacion_laminas_finas_Visera_3.5.2.stl)) para la sujeción. 
 
