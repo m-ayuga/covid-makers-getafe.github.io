@@ -2,30 +2,13 @@
 
 En este sition mantenemos información útil para la coordinación del grupo de Getafe de [Coronavirus Makers](https://www.coronavirusmakers.org).
 
-## Grupos y canales en Telegram (grupo de Getafe)
+* [Qué estamos haciendo](#haciendo)
+* [Proceso completo (datos para el grupo de Getafe)](#proceso)
+* [Coordinación (Getafe, Madrid, general)](#coordinacion)
+* [Más informción útil](#mas)
+* [Licencia y contribuciones](#licencia)
 
-* [Noticias](): Canal de noticias, con la principal información para estar al día.
-* [FABRICACIÓN](https://t.me/joinchat/N3nb20yJIMnOrUPWXF8w3g): Aspectos específicos relacionados con la fabricación (qué estamos fabricando, parámetros de impresión, problemas al imrimir, etc.)
-* [LOGISTICA](https://t.me/joinchat/N3nb20vhjKKdFRdU1ezZ0Q): Qué hacer para que lo que hemos fabricado llegue a quien lo pueda usar (puntos y protocolos de recogida, cómo preparar el material, etc.)
-* [GENERAL](https://t.me/joinchat/N3nb2xyLiFs4H2UzlqZL5w): Otros temas relacionados con la coordinación del grupo
-
-## Puntos de coordinación (Comunidad de Madrid)
-
-* Sitio web [COVIDMadrid.com](https://covidmadrid.com/): Sitio específico para información de coordinación de lo que se está haciendo en la Comunidad de Madrid.
-
-* Canal de Telegram [CV19_INFO_MADRID](https://t.me/cv19_fab_info): Canal moderado donde sólamente se reciben unos pocos mensajes al día con la información fundamental (aconsejo empezar por este canal si alguien se acaba de apuntar a este jaleo). Incluye un formulario para indicar los materiales de que se dispone (piezas 3D que se han podido imprimir, y otros materiales auxiliares útiles).
-
-* Grupo de Telegram de fabricación [CV19_FAB_MADRID](https://t.me/joinchat/Ec-3Ih0C2Wzr7OBkqfiEUQ): Es el sitio donde hacer preguntas (y sobre todo hace falta gente que ayude a responderlas) sobre fabricación con impresora 3D.
-
-* Grupo de Telegram de logística [CV19_FAB_MADRID LOGISTICA](https://t.me/joinchat/MI8qJ0vZuLWeJOJlJgMguQ): Coordinación sobre cómo enviar lo que se vaya produciendo, y cómo hacerlo llegar a quien mejor lo pueda usar.
-
-Si estás en la Comunidad de Madrid, pero no en Getafe, busca tu grupo local en el canal Telegram de información, donde podrás ver listados.
-
-## Puntos de coordinación (España)
-
-* Sitio web [Coronavirus Makers](https://www.coronavirusmakers.org): Es donde se está coordinando la mayor parte de la actividad maker en relación con la situación sanitaria causada por la epidemia de coronavirus. En él puede encontrarse una lista extensa de grupos especializados en elementos concretos (respiradores, mascarillas, protectores faciales, etc.), y de coordinación de las distintas comunidades autonómicas, que en general son grupos de Telegram.
-
-## Qué estamos haciendo
+## <a name="haciendo">Qué estamos haciendo</a>
 
 El grupo de Madrid está, al menos por ahora, centrado en la impresión de viseras que, complementadas con un un plástico transparente de tamaño A4 (de PVC, por ejemplo de los usados en encuadernación) y según modelo, con una goma de sujección, permite tener un protector facial para usar en combinación con mascarillas y otros elementos. Actualmente estos dispositivos no están certificados para su uso por profesionales sanitarios, pero son útiles para otros sectores que los pueden necesitar (protección civil, policía, distribución, pequeño comercio, etc.). Por lo que veo en los canales, también hay profesionales de la salud que los demandan por no tener nada mejor.
 
@@ -41,7 +24,7 @@ Los modelos a imprimir son los que están del canal ["3D printed Face Mask A4 sh
 
 Para las pantallas de plástico transparente, se recomienda que sean de PVC O PET (parece que el acetato no aguanta los métodos de desinfección). Se recomeinda para este modelo que sean de 240 micras, las de 180 pueden caerse (pero se puede solucionar con cinta adhesiva, o utilizar el refuerzo diseñado al efecto ([fijación láminas.stl](https://cdn.thingiverse.com/assets/90/9a/52/09/6a/fijacion_laminas_finas_Visera_3.5.2.stl)) para la sujeción. 
 
-## Proceso completo (datos para el grupo de Getafe)
+## <a name="proceso">Proceso completo (datos para el grupo de Getafe)</a>
 
 * Antes de Empezar: Lee el manual de impresión, elije el modelo a imprimir, calibra tu impresora. Si necesitas ayuda, pregunta en el grupo de fabricación.
 
@@ -52,9 +35,9 @@ Para las pantallas de plástico transparente, se recomienda que sean de PVC O PE
   - Importantísimo: rellena la columna  "metro" con la parada más cercana a tu domicilio.
   -  Rellena la columna Salud: Con los siguientes valores: "SANO" (si estás bien con respecto al COVID19, ni tienes razones para pensar que podrías tener la infección), o "CON SINTOMAS" (si tienes síntomas, o has sido diagnosticado positivamente, o alguien en tu domicilio tiene síntomas o ha sido diagnosticado).
 
-* Desinfecta y empaqueta el material cuando vayas a llevarlo a un punto de recogida o hayas acordado que vengan a recogerlo a tu casa. Si tienes problemas o dudas, pregunta en el grupo de logística (sobre la desinfección, mira más abajo).
+* Desinfecta y empaqueta el material cuando vayas a llevarlo a un punto de recogida o hayas acordado que vengan a recogerlo a tu casa. Si tienes problemas o dudas, pregunta en el grupo de logística (sobre la desinfección, mira más abajo). Lee atentamente la siguiente sección.
 
-## Desinfección y Empaquetado de Material
+### Desinfección y empaquetado de material
 
 **Atención: Este proceso deberá realizarse con guantes y mascarilla, para evitar que los materiales que producimos vayan infectados**
 
@@ -64,21 +47,47 @@ La solución desinfectante que vamos a usar va a ser la recomendada por la OMS: 
 
 **¡Importante!:** La solución SOLO es efectiva durante 24 horas.
 
-## Más informción útil
+## <a name="coordinacion">Coordinación</a>
+
+### Grupos y canales en Telegram (grupo de Getafe)
+
+* [Noticias](): Canal de noticias, con la principal información para estar al día.
+* [FABRICACIÓN](https://t.me/joinchat/N3nb20yJIMnOrUPWXF8w3g): Aspectos específicos relacionados con la fabricación (qué estamos fabricando, parámetros de impresión, problemas al imrimir, etc.)
+* [LOGISTICA](https://t.me/joinchat/N3nb20vhjKKdFRdU1ezZ0Q): Qué hacer para que lo que hemos fabricado llegue a quien lo pueda usar (puntos y protocolos de recogida, cómo preparar el material, etc.)
+* [GENERAL](https://t.me/joinchat/N3nb2xyLiFs4H2UzlqZL5w): Otros temas relacionados con la coordinación del grupo
+
+### Puntos de coordinación (Comunidad de Madrid)
+
+* Sitio web [COVIDMadrid.com](https://covidmadrid.com/): Sitio específico para información de coordinación de lo que se está haciendo en la Comunidad de Madrid.
+
+* Canal de Telegram [CV19_INFO_MADRID](https://t.me/cv19_fab_info): Canal moderado donde sólamente se reciben unos pocos mensajes al día con la información fundamental (aconsejo empezar por este canal si alguien se acaba de apuntar a este jaleo). Incluye un formulario para indicar los materiales de que se dispone (piezas 3D que se han podido imprimir, y otros materiales auxiliares útiles).
+
+* Grupo de Telegram de fabricación [CV19_FAB_MADRID](https://t.me/joinchat/Ec-3Ih0C2Wzr7OBkqfiEUQ): Es el sitio donde hacer preguntas (y sobre todo hace falta gente que ayude a responderlas) sobre fabricación con impresora 3D.
+
+* Grupo de Telegram de logística [CV19_FAB_MADRID LOGISTICA](https://t.me/joinchat/MI8qJ0vZuLWeJOJlJgMguQ): Coordinación sobre cómo enviar lo que se vaya produciendo, y cómo hacerlo llegar a quien mejor lo pueda usar.
+
+Si estás en la Comunidad de Madrid, pero no en Getafe, busca tu grupo local en el canal Telegram de información, donde podrás ver listados.
+
+### Puntos de coordinación (España)
+
+* Sitio web [Coronavirus Makers](https://www.coronavirusmakers.org): Es donde se está coordinando la mayor parte de la actividad maker en relación con la situación sanitaria causada por la epidemia de coronavirus. En él puede encontrarse una lista extensa de grupos especializados en elementos concretos (respiradores, mascarillas, protectores faciales, etc.), y de coordinación de las distintas comunidades autonómicas, que en general son grupos de Telegram.
+
+## <a name="mas">Más informción útil</a>
 
 En Euskadi tienen un sitio web con instrucciones muy claras para imprimir, desinfectar y avisar para la recogida: [Impresión 3D Comunidad Maker de Euskadi contra el Coronavirus](https://covideuskadi.net/impresion-3d/). Muy interesantes las indicaciones para desinfectar antes de embolsar, recuerda hacer esto si vas a hacer distribución local de lo que hayas imprimido.
 
 
-## <a name="license">Licencia y contribuciones</a>
+## <a name="licencia">Licencia y contribuciones</a>
 
-Este documento se distribuye bajo la licencia
+Los contenidos de este sitio web se distribuyen bajo la licencia
 [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)
-(CC BY-SA 4.0) y es una traducción del [original](https://github.com/jgbarah/Notes/foss-distance-learning.html)
+(CC BY-SA 4.0).
 
-Todo el contenido original de este documento se puede encontrar en un
-[repositorio de GitHub](https://github.com/jgbarah/Notes/).
+Todo el contenido de este sitio web se puede encontrar en un
+[repositorio de GitHub](https://github.com/covid-makers-getafe/covid-makers-getafe.github.io).
 
 Si quieres ves cualquier error, quieres proponer cualquier mejora, o tienes un comentario, por favor
-[abre un *issue* en este repositorio](https://github.com/jgbarah/Notes/issues/new),
-o [envía una *pull request* al mismo](https://github.com/jgbarah/Notes/pulls).
+[abre un *issue* en este repositorio](https://github.com/covid-makers-getafe/covid-makers-getafe.github.io/issues/new),
+o [envía una *pull request* al mismo](https://github.com/covid-makers-getafe/covid-makers-getafe.github.io/pulls).
 
+Si tienes cualquier problema en el proceso de proponer mejoras o hacer comentarios, coméntalo en el grupo general de Getafe (ver más arriba).
