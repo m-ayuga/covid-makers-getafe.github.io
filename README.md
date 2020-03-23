@@ -20,11 +20,11 @@ Los modelos a imprimir son los que están del canal ["3D printed Face Mask A4 sh
 
 * Visera3.6b_cerrada_mas_simple ([STL](https://www.thingiverse.com/download:7842326), [copia del STL](Visera_3.6b_cerrada__mas_simple.stl)). En Anet A8 tarda unas cuatro horas, y hace falta imprimir con cama caliente porque si no, se acaba despegando después de hacer unas pocas capas.
 
-Se está hablando mucho de la versión 0.4, que es más fácil de imprimir, y parece (hoy, 22 de marzo) que va a ser la recomendada en breve:
+Se está hablando mucho de la [versión 0.4](https://www.thingiverse.com/thing:4230817), que es más fácil de imprimir, y parece (hoy, 22 de marzo) que va a ser la recomendada en breve:
 
-* Visera_Fija_Cerrada_v0.4_sin_logo.stl ([STL](https://www.thingiverse.com/download:7846230), [copia del STL](Visera_Fija_Cerrada_v0.4_sin_logo.stl)).
+* Visera_Fija_Cerrado_v0.4.stl ([STL](https://www.thingiverse.com/download:7845404), [copia del STL](Visera_Fija_Cerrado_v0.4.stl)).
 
-* Visera_Fija_Cerrada_v0.4_con_cinta.stl ([STL](https://cdn.thingiverse.com/assets/a8/d3/6b/86/02/Visera_Fija_Cerrada_v0.4_con_cinta_sin_logo.stl), [copia del STL](Visera_Fija_Cerrada_v0.4_con_cinta_sin_logo.stl)). Igual que el modelo anterior, pero con una cinta para sosterner la visera pasándola sobre la cabeza.
+* Visera_Fija_Cerrado_v0.4_con_cinta.stl ([STL](https://cdn.thingiverse.com/assets/a2/7a/5b/88/67/Visera_Fija_Cerrado_v0.4_con_cinta.stl), [copia del STL](Visera_Fija_Cerrado_v0.4_con_cinta.stl)). Igual que el modelo anterior, pero con una cinta para sosterner la visera pasándola sobre la cabeza.
 
 * Instrucciones de montaje: [video](https://youtu.be/vfoddSzQERM), [PDF](https://www.thingiverse.com/download:7845433), [copia del PDF](Manual_de_ensamblaje_mascara_protectora_v1.1.pdf). Muy recomendable leerlo. Incluye detalle de parámetros de impresión, ensamblaje, otros aspectos interesantes.
 
