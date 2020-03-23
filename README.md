@@ -60,23 +60,48 @@ Para las pantallas de plástico transparente, se recomienda que sean de PVC O PE
   - Importantísimo: rellena la columna  "metro" con la parada más cercana a tu domicilio.
   - Rellena la columna SANO/CON SINTOMAS: Con los siguientes valores: "SANO" (si estás bien con respecto al COVID19, ni tienes razones para pensar que podrías tener la infección), o "CON SINTOMAS" (si tienes síntomas, o has sido diagnosticado positivamente, o alguien en tu domicilio tiene síntomas o ha sido diagnosticado).
 
-* Desinfecta y empaqueta el material cuando vayas a llevarlo a un punto de recogida o hayas acordado que vengan a recogerlo a tu casa. Si tienes problemas o dudas, pregunta en el grupo de logística (sobre la desinfección, mira más abajo). Lee atentamente la siguiente sección.
-
-* Imprime el documento [PROTOCOLO_ACTUACION_ENTREGA](PROTOCOLO_ACTUACION_ENTREGA_V2.pdf), rellénalo, e inclúyelo con la bolsa, para darlo cuando realices la entrega de tu material.
-
 * Alguien del grupo de logística se pondrá en contacto contigo cuando pueda incluir tu domicilio en su ruta. Si ves que nadie se pone en contacto contigo, y ya tienes un cierto número de piezas impresas, puedes preguntar en el grupo de logística.
 
-* Las personas que se encargan de la logística llevarán las piezas, y demás materiales que podamos tener (hojas de plástico, gomas, etc) al punto de entrega. Allí los recogerá Protección Civil de Getafe, que los entregará al hospital u otros orgaismos necesitados.
+* Desinfecta y empaqueta el material (las piezas imprimidas, y los demás materiales que podamos tener, como hojas de plástico, gomas, etc.) según las [instrucciones de empaquetado y desinfección](#desinfeccion) y espera a que alguien del grupo de logística pase a buscarlo para llevarlo al punto de recogida. Si tienes problemas o dudas, pregunta en el grupo de logística (sobre la desinfección, mira más abajo). Lee atentamente la siguiente sección.
 
-### Desinfección y empaquetado de material
+* Las personas que se encargan de la logística recogerán la bolsa de tu domicilio y la llevarán al punto de entrega. Allí los recogerá Protección Civil de Getafe, que los entregará al hospital u otros orgaismos necesitados.
 
-**Atención: Este proceso deberá realizarse con guantes y mascarilla, para evitar que los materiales que producimos vayan infectados**
+### <a name="desinfeccion">Desinfección y empaquetado de material</a>
 
-Una vez tengas piezas listas para entregar, tienen que ser desinfectadas. La bolsa donde las vayas a entregar también.
+**Atención: Este proceso deberá realizarse con guantes y mascarilla, para evitar que los materiales que producimos vayan infectados. Al terminar el proceso, es importante realizar una buena limpieza de manos.**
 
-La solución desinfectante que vamos a usar va a ser la recomendada por la OMS: 30ml de lejía por cada litro de agua.
+El proceso comienza preparando un pulverizador con líquido desinfectante. Puedes hacerlo de una de las siguientes formas:
 
-**¡Importante!:** La solución SOLO es efectiva durante 24 horas.
+* Con gel hidro-alcohólico
+
+- Abrir el desinfectante de uso profesional como gel hidro-alcohólico
+- Introducir el gel hidro-alcohólico en un pulverizador
+
+* Con lejía:
+
+- Realizar una mezcla de lejía con agua (1 parte de lejía y 9 partes de agua)
+- Introducir la mezcla en un pulverizador
+
+* Con alcohol de 96 grados
+
+- Realizar una mezcla de alcohol de 96 con agua (7 partes de alcohol y 3 partes de agua)
+- Introducir la mezcla en un pulverizador
+
+**¡Importante!:** La solución que prepares solo es efectiva durante 24 horas.
+
+Una vez tengas el pulverizador listo, puedes continuar con el procedimiento:
+
+* Prepara una bolsa TRANSPARENTE.
+* Introduce en ella la [hoja informativa de desinfección](DESINFECCION.pdf) (que habrás imprido previamente), escribiendo en ella, en la parte superior, tu usuario de Telegram (por trazabilidad).
+* Ponte guante en la mano con la que vas a coger las viseras de una punta y rociar la visera por los dos lados, esperar a que no gotee y meterla en la bolsa transparente.
+* Realiza un proceso similar con cualquier otro elemento que incluyas en la bolsa.
+* Cuando esté todo en la bolsa, tienes que cerrarla lo más herméticamente que puedas. Para esto, puedes llenar un cubo con agua, sumerges la bolsa con los materiales dentro del cubo, sin que el agua llegue a entrar en la bolsa. Así sale el aire de la bolsa. Inmediatamente, cierra la bolsa con una pinza o un nudo, intentando que quede el mínimo de aire dentro. No olvides pulverizar después la bolsa con desinfectante.
+
+Es importante que las bolsas sean transparentes, para que quien las transporta pueda ver qué hay en ellas.
+
+Antes de su uso, el material debe volver a ser desinfectado (eso va indicado en la hoja informativa de desinfección).
+
+Ten las bolsas listas y desinfectadas antes de que llegue la persona de logística que las lleve al punto de entrega, para evitar esperas innecesarias.
 
 ## <a name="coordinacion">Coordinación</a>
 
