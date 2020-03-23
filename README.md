@@ -53,18 +53,20 @@ Para las pantallas de plástico transparente, se recomienda que sean de PVC O PE
 
 * Imprime. Si necesitas ayuda, pregunta en el grupo de fabricación.
 
-* Cuando tengas material impreso en 3D, rellena la hoja de cálculo de inventario [https://docs.google.com/spreadsheets/d/1K7m4dV5NfDMxKLav6jHCdzQTZqJiKSewGEd3d09-3ik/edit#gid=0](https://docs.google.com/spreadsheets/d/1K7m4dV5NfDMxKLav6jHCdzQTZqJiKSewGEd3d09-3ik/edit#gid=0). Si tienes problemas o dudas para hacerlo, pregunta en el grupo de logística.
-* No olvides rellenar la hoja de Logística con la zona en la que vives 
-[https://docs.google.com/spreadsheets/d/1TF07XATJxQqFkj-0rwIvqJ4JImOIJKJ8Mxx6wXUWriM/edit#gid=0](https://docs.google.com/spreadsheets/d/1TF07XATJxQqFkj-0rwIvqJ4JImOIJKJ8Mxx6wXUWriM/edit#gid=0)
+* Cuando tengas material impreso en 3D, rellena la [hoja de cálculo de inventario](https://docs.google.com/spreadsheets/d/1K7m4dV5NfDMxKLav6jHCdzQTZqJiKSewGEd3d09-3ik/edit#gid=0). Si tienes problemas o dudas para hacerlo, pregunta en el grupo de logística.
+
+* No olvides rellenar la [hoja de Logística](https://docs.google.com/spreadsheets/d/1TF07XATJxQqFkj-0rwIvqJ4JImOIJKJ8Mxx6wXUWriM/edit#gid=0) con la zona en la que vives, para que el grupo de logística pueda organizar las rutas.
 
   - Importantísimo: rellena la columna  "metro" con la parada más cercana a tu domicilio.
   - Rellena la columna SANO/CON SINTOMAS: Con los siguientes valores: "SANO" (si estás bien con respecto al COVID19, ni tienes razones para pensar que podrías tener la infección), o "CON SINTOMAS" (si tienes síntomas, o has sido diagnosticado positivamente, o alguien en tu domicilio tiene síntomas o ha sido diagnosticado).
 
 * Alguien del grupo de logística se pondrá en contacto contigo cuando pueda incluir tu domicilio en su ruta. Si ves que nadie se pone en contacto contigo, y ya tienes un cierto número de piezas impresas, puedes preguntar en el grupo de logística.
 
-* Desinfecta y empaqueta el material (las piezas imprimidas, y los demás materiales que podamos tener, como hojas de plástico, gomas, etc.) según las [instrucciones de empaquetado y desinfección](#desinfeccion) y espera a que alguien del grupo de logística pase a buscarlo para llevarlo al punto de recogida. Si tienes problemas o dudas, pregunta en el grupo de logística (sobre la desinfección, mira más abajo). Lee atentamente la siguiente sección.
+* Desinfecta y empaqueta el material (las piezas imprimidas, y los demás materiales que podamos tener, como hojas de plástico, gomas, etc.) según las [instrucciones de empaquetado y desinfección](#desinfeccion) y espera a que alguien del grupo de logística pase a buscarlo para llevarlo al punto de recogida. Si tienes problemas o dudas, pregunta en el grupo de logística (sobre la desinfección, mira más abajo).
 
-* Las personas que se encargan de la logística recogerán la bolsa de tu domicilio y la llevarán al punto de entrega. Allí los recogerá Protección Civil de Getafe, que los entregará al hospital u otros orgaismos necesitados.
+* Imprime y rellena la [hoja de recogida](PROTOCOLO_ACTUACION_ENTREGA_V2.pdf), y tenla lista cuando llegue la persona que se encargará de llevarse tu bolsa. Sobre la primera línea incluye tu nombre, sobre la segunda el nombre de la persona que recogerá tu bolsa, y sobre la tercera, "DOMICILIO" si la recogida es en tu domicilio (o si no, el lugar donde tenga lugar la recogida). Si te fuera imposible imprimir el documento, pregunta a la persona de logística que pase a recoger si te puede llevar uno impreso, o prepara uno a mano.
+
+* Las personas que se encargan de la logística recogerán la bolsa de tu domicilio y la hoja de recogida, y las llevarán al punto de entrega. Allí los recogerá Protección Civil de Getafe, que los entregará al hospital u otros orgaismos necesitados.
 
 ### <a name="desinfeccion">Desinfección y empaquetado de material</a>
 
