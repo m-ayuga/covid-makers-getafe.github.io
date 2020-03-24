@@ -42,12 +42,15 @@ Antes de imprimir, conviene realizar el siguiente test:
 * [Flow Calibator](https://www.thingiverse.com/thing:1662342) ([STL](https://cdn.thingiverse.com/assets/43/12/fc/91/0b/flow_calibrator.stl), [copia del STL](flow_calibrator.stl)), por si el anterior no te descarga] para hacer una prueba y calibrar adecuadamente, antes de imprimir. Se tarda unos 6 min en imprimir en mi Anet8. Una vez impreso, el cilindro ha de entrar en la anilla, y atravesarla, lo más justo posible pero sin que se atasque. Si no la atraviesa bien, modifica el parámero "Horizontal Expansion" en Cura. A mi me ha funcionado bien con un valor de -0.15.
 
 
-Montaje: mientras se termina un manual de montaje más completo, puedes consultar estas [instrucciones de montaje](https://wikifactory.com/+covidmakersmadrid/visera-hospitales).
+Montaje: Puedes ver un [video con detalles](https://youtu.be/OjrsSroGJtQ) sobre el montaje, y sobre cómo queda la visera una vez impresa. Puedes ver también las [instrucciones de impresión](https://wikifactory.com/+covidmakersmadrid/visera-hospitales), donde verás alguna foto.
+
 
 
 Para las pantallas de plástico transparente, se recomienda que sean de PVC O PET (parece que el acetato no aguanta los métodos de desinfección). Se recomeinda para este modelo que sean de 240 micras, las de 180 pueden caerse (pero se puede solucionar con cinta adhesiva, o utilizar el refuerzo diseñado al efecto ([fijación láminas.stl](https://cdn.thingiverse.com/assets/90/9a/52/09/6a/fijacion_laminas_finas_Visera_3.5.2.stl)) para la sujeción. 
 
 ## <a name="proceso">Proceso completo (datos para el grupo de Getafe)</a>
+
+**Atención:** No es necesario esperar a tener gomas y plásticos transparentes para terminar de montar los protectores. En cuanto tengas tus piezas impresas, se puede organizar ya una entrega. Nos estamos encargando de que en destino haya gomas y pĺásticos, para que puedan montar todo allí. Así que no te preocupes si te falta algo de eso: basta con imprimir piezas. En cualquier caso, si tienes otro material, o decides montar los protectores completos, adelante, acuérdalo así con quien vaya a recoger tu entrega (ver más abajo).
 
 * Antes de empezar: Lee con detalle las [instrucciones sobre cómo imprimir lo que estamos haciendo](#haciendo), elije el modelo a imprimir, calibra tu impresora. Si necesitas ayuda, pregunta en el grupo de fabricación.
 
