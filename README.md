@@ -55,7 +55,7 @@ Para las pantallas de plástico transparente, se recomienda que sean de PVC O PE
 
 * Cuando tengas material impreso en 3D, rellena la [hoja de cálculo de inventario](https://docs.google.com/spreadsheets/d/1K7m4dV5NfDMxKLav6jHCdzQTZqJiKSewGEd3d09-3ik/edit#gid=0). Si tienes problemas o dudas para hacerlo, pregunta en el grupo de logística.
 
-* No olvides rellenar la [hoja de Logística](https://docs.google.com/spreadsheets/d/1TF07XATJxQqFkj-0rwIvqJ4JImOIJKJ8Mxx6wXUWriM/edit#gid=0) con la zona en la que vives, para que el grupo de logística pueda organizar las rutas.
+* No  olvides rellenar la [hoja de Logística](https://docs.google.com/spreadsheets/d/1TF07XATJxQqFkj-0rwIvqJ4JImOIJKJ8Mxx6wXUWriM/edit#gid=0) con la zona en la que vives, para que el grupo de logística pueda organizar las rutas.
 
   - Importantísimo: rellena la columna  "metro" con la parada más cercana a tu domicilio.
   - Rellena la columna SANO/CON SINTOMAS: Con los siguientes valores: "SANO" (si estás bien con respecto al COVID19, ni tienes razones para pensar que podrías tener la infección), o "CON SINTOMAS" (si tienes síntomas, o has sido diagnosticado positivamente, o alguien en tu domicilio tiene síntomas o ha sido diagnosticado).
