@@ -11,4 +11,6 @@ Coordinamos las entregas y recogidas de material y viseras con [Ayuntamiento](ht
 * [Más información útil](mas.md)
 * [Licencia y contribuciones](licencia.md)
 
+[![MAKERS GETAFE EN ACCION. Pantalla Anti Salpicadura 3D](http://img.youtube.com/vi/OjrsSroGJtQ/0.jpg)](http://www.youtube.com/watch?v=OjrsSroGJtQ "MAKERS GETAFE EN ACCION. Pantalla Anti Salpicadura 3D")
+
 Si quieres contactar, puedes hacerlo por correo electrónico con [Makers Getafe](mailto:makersgetafe@gmail.com)
