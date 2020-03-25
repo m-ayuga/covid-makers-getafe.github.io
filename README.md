@@ -7,7 +7,7 @@ Coordinamos las entregas y recogidas de material y viseras con [Ayuntamiento](ht
 * [Qué estamos haciendo](haciendo.md)
 * [Proceso completo (datos para el grupo de Getafe)](proceso.md)
 * [Coordinación (Getafe, Madrid, general)](coordinacion.md)
-* [Más informción útil](mas.md)
+* [Más información útil](mas.md)
 * [Licencia y contribuciones](licencia.md)
 
 Si quieres contactar, puedes hacerlo por correo electrónico con [Makers Getafe](mailto:makersgetafe@gmail.com)
