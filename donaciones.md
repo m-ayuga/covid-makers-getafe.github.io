@@ -9,4 +9,4 @@ Listado de materiales que se necesitan:
 * PLA Ø 1.75mm (Cualquier color)
 * Bolsas herméticas
 
-Manda un correo a [Makers Getafe](mailto:makersgetafe@gmail.com) o rellena el siguiente [formulario](form.php)
+Manda un correo a [Makers Getafe](mailto:makersgetafe@gmail.com)
