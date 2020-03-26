@@ -6,14 +6,9 @@
 
 * Imprime. Si necesitas ayuda, pregunta en el grupo de fabricación.
 
-* Cuando tengas material impreso en 3D, rellena la [hoja de cálculo de inventario](https://docs.google.com/spreadsheets/d/1K7m4dV5NfDMxKLav6jHCdzQTZqJiKSewGEd3d09-3ik/edit#gid=0). Si tienes problemas o dudas para hacerlo, pregunta en el grupo de logística.
+* Cuando tengas material impreso en 3D, rellena el [formulario de inventario](https://forms.gle/Ha7NGzjznJ6fj2t9A). Si tienes problemas o dudas para hacerlo, pregunta en el grupo de logística. No hace falta que rellenes el formulario hasta que tengas una cantidad mínima (8 o 10 piezas), para minimizar los desplazamientos. Con esa información, el grupo de logística organizará visitas para recoger las piezas en tu domicilio.
 
-* No olvides rellenar la [hoja de Logística](https://docs.google.com/spreadsheets/d/1TF07XATJxQqFkj-0rwIvqJ4JImOIJKJ8Mxx6wXUWriM/edit#gid=0) con la zona en la que vives, para que el grupo de logística pueda organizar las rutas.
-
-  - Importantísimo: rellena la columna  "metro" con la parada más cercana a tu domicilio.
-  - Rellena la columna SANO/CON SINTOMAS: Con los siguientes valores: "SANO" (si estás bien con respecto al COVID19, ni tienes razones para pensar que podrías tener la infección), o "CON SINTOMAS" (si tienes síntomas, o has sido diagnosticado positivamente, o alguien en tu domicilio tiene síntomas o ha sido diagnosticado).
-
-* Alguien del grupo de logística se pondrá en contacto contigo cuando pueda incluir tu domicilio en su ruta. Si ves que nadie se pone en contacto contigo, y ya tienes un cierto número de piezas impresas, puedes preguntar en el grupo de logística.
+* Alguien del grupo de logística o de Protección Civil se pondrá en contacto contigo cuando pueda incluir tu domicilio en su ruta. Si ves que nadie se pone en contacto contigo, y ya tienes un cierto número de piezas impresas, puedes preguntar en el grupo de logística.
 
 * Desinfecta y empaqueta el material (las piezas imprimidas, y los demás materiales que podamos tener, como hojas de plástico, gomas, etc.) según las [instrucciones de empaquetado y desinfección](#desinfeccion) y espera a que alguien del grupo de logística pase a buscarlo para llevarlo al punto de recogida. Si tienes problemas o dudas, pregunta en el grupo de logística (sobre la desinfección, mira más abajo).
 
