@@ -2,7 +2,7 @@
 
 En este sitio mantenemos información útil para la coordinación del grupo de Getafe de [Coronavirus Makers](https://www.coronavirusmakers.org).
 
-* [NOVEDADES](novedades.md)
+* [NOVEDADES](novedades.md) Última actualización: Jueves 26/03/2020 a las 16:00
 * [DONACIÓN DE MATERIAL](donaciones.md)
 * [Qué estamos haciendo](haciendo.md)
 * [Proceso completo (datos para el grupo de Getafe)](proceso.md)
