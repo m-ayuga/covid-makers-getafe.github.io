@@ -2,7 +2,7 @@
 
 ### Grupos y canales en Telegram (grupo de Getafe)
 
-* [Noticias](): Canal de noticias, con la principal información para estar al día.
+* [Noticias](https://t.me/cv19getafenoticias): Canal de noticias, con la principal información para estar al día.
 * [FABRICACIÓN](https://t.me/joinchat/N3nb20yJIMnOrUPWXF8w3g): Aspectos específicos relacionados con la fabricación (qué estamos fabricando, parámetros de impresión, problemas al imrimir, etc.)
 * [LOGISTICA](https://t.me/joinchat/N3nb20vhjKKdFRdU1ezZ0Q): Qué hacer para que lo que hemos fabricado llegue a quien lo pueda usar (puntos y protocolos de recogida, cómo preparar el material, etc.)
 * [GENERAL](https://t.me/joinchat/N3nb2xyLiFs4H2UzlqZL5w): Otros temas relacionados con la coordinación del grupo
