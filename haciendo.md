@@ -45,10 +45,11 @@ Montaje: Puedes ver un [video con detalles](https://youtu.be/OjrsSroGJtQ) sobre 
 
 ### <a name="gregorio">Modelo del Gregorio Marañón</a>
 
-Este diseño es más simple, y no rquiere de gomas para completarlo (sí de pantalla de plático transparente). Puede imprimirse en impresoras con cama más pequeña que el aprobado por la Comunidad de Madrid.
+Este diseño es más simple, más rápido de imprimir y no rquiere de gomas para completarlo (sí de pantalla de plático transparente). Pero no está aceptado (por aora) por la Comunidad de Madrid. Se está usando, de todas formas, en muchos lugares. Puede imprimirse en impresoras con cama más pequeña que el aprobado por la Comunidad de Madrid.
 
 * Diseño V3 ([STL](SIMPLE_V3.stl)): estamos trabajando con la versión 3 de este documento.
 
+Puedes consultar este [video sobre cómo se fabrica y monta](https://www.youtube.com/watch?v=PltnknIDqJg).
 
 ### <a name="calibracion">Instrucciones de calibración para la impresora 3D</a>
 
