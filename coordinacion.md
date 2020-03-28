@@ -1,11 +1,24 @@
-## <a>Coordinación</a>
+## Canales de coordinación e información
 
-### Grupos y canales en Telegram (grupo de Getafe)
+### Grupo CovidMakers Getafe
+
+El mecanismo principal de coordinación que usamos es Telegram: apúntate a los canales que te interesen. 
+
+Además, estamos presentes en redes sociales, y mantenemos también noticias y novedades en este sitio web:
+
+* [Noticias y novedades](/novedades/README.md)
+* Twitter: [CovidMakersGTF](https://twitter.com/CovidMakersGTF)
+* Facebook: [CovidMakersGTF](https://www.facebook.com/CovidMakersGTF/)
+* Correo electrónico: makersgetafe @ gmail.com (por si quieres contactar de forma privada con nosotros)
+
+Grupos y canales en Telegram (grupo de Getafe):
+
+Es recomendable que te apuntes al menos al canal de noticias, y luego a los grupos que te puedan interesar. Intenta mantener el tema de tus mensajes dentro del tema del grupo en el que escribas:
 
 * [Noticias](https://t.me/cv19getafenoticias): Canal de noticias, con la principal información para estar al día.
-* [FABRICACIÓN](https://t.me/joinchat/N3nb20yJIMnOrUPWXF8w3g): Aspectos específicos relacionados con la fabricación (qué estamos fabricando, parámetros de impresión, problemas al imrimir, etc.)
-* [LOGISTICA](https://t.me/joinchat/N3nb20vhjKKdFRdU1ezZ0Q): Qué hacer para que lo que hemos fabricado llegue a quien lo pueda usar (puntos y protocolos de recogida, cómo preparar el material, etc.)
-* [GENERAL](https://t.me/joinchat/N3nb2xyLiFs4H2UzlqZL5w): Otros temas relacionados con la coordinación del grupo
+* [Fabricación](https://t.me/joinchat/N3nb20yJIMnOrUPWXF8w3g): Aspectos específicos relacionados con la fabricación (qué estamos fabricando, parámetros de impresión, problemas al imrimir, etc.)
+* [Logística](https://t.me/joinchat/N3nb20vhjKKdFRdU1ezZ0Q): Qué hacer para que lo que hemos fabricado llegue a quien lo pueda usar (puntos y protocolos de recogida, cómo preparar el material, etc.)
+* [General](https://t.me/joinchat/N3nb2xyLiFs4H2UzlqZL5w): Otros temas relacionados con la coordinación del grupo
 
 ### Puntos de coordinación (Comunidad de Madrid)
 

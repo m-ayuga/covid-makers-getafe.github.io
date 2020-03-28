@@ -2,11 +2,11 @@
 
 En este sitio mantenemos información útil para la coordinación del grupo de Getafe de [Coronavirus Makers](https://www.coronavirusmakers.org).
 
-* [NOVEDADES](novedades/README.md) 
-* [DONACIÓN DE MATERIAL](donaciones.md)
-* [Qué estamos haciendo](haciendo.md)
-* [Proceso completo (datos para el grupo de Getafe)](proceso.md)
-* [Coordinación (Getafe, Madrid, general)](coordinacion.md)
+* [Novedades y noticias](novedades/README.md) 
+* [Donaciones de material](donaciones.md)
+* [Qué estamos haciendo](haciendo.md): detalles sobre fabricación
+* [Proceso completo (datos para el grupo de Getafe)](proceso.md): fabricación, recogida de lo fabricado, entrega a usuarios finales, etc.
+* [Canales de coordinación e información](coordinacion.md) (Getafe, Madrid, general)
 * [Notas de las reuniones](reuniones/README.md)
 * [Más información útil](mas.md)
 * [Licencia y contribuciones](licencia.md)
