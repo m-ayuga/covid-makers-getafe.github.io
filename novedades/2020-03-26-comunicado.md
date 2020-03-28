@@ -1,0 +1,23 @@
+# Comunicado CovidMakers Getafe
+
+**Fecha:** 26 de marzo 2020
+
+Desde que comenzó el Estado de Alarma debido a la pandemia provocada por el coronavirus, gente de todo el país y también de Getafe empezamos a buscar la forma de ayudar a luchar contra el Covid 19 desde nuestras casas. Tras las noticias que llegaban de falta de material de protección vimos que podíamos ayudar utilizando nuestras impresoras 3D para producir viseras anti salpicadura y EPIs, por ello comenzamos a organizarnos y a trabajar colectivamente. 
+
+Llevamos días trabajando duro para hacer piezas que sean útiles a quienes están dando la cara en la primera línea de la lucha, sanitari@s, policías, protección civil, etc. Muchas vecinas y vecinos se han puesto en contacto para donar materiales, ponerse a disposición para hacer distribución y  otras tareas, gracias a ellas y a ellos hemos sido capaces de empezar a repartir más de 300 [viseras](https://covid-makers-getafe.github.io/haciendo.html). Además, Protección Civil se está encargando del reparto de los materiales, y empresas  e instituciones como el Ayuntamiento de Getafe han comenzado a participar donando y poniendo a disposición medios para poder aumentar la  producción de los makers. 
+
+Todavía quedan muchos días de lucha y las necesidades siguen acuciando, por eso os animamos a todas y a todos a ayudarnos para proveer al máximo número de personas de viseras.
+ 
+¿Cómo puedes ayudar? 
+
+* Donando materiales: 
+     
+  - Láminas de PVC de 240 micras
+  - Gomas elásticas de 1cm de ancho
+  - PLA de 1.75mm de diámetro (cualquier color)
+  - Bolsas herméticas transparentes. 
+
+
+* Si tienes una impresora 3D: imprimiendo viseras. Puedes ver el [proceso completo que seguimos](/proceso.md), y [qué objetos estamos fabricando](/haciendo.md).
+
+Os dejamos nuestra dirección de correo electrónico para que podáis contactar con nosotros: makersgetafe @ gmail.com.
