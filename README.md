@@ -7,6 +7,7 @@ En este sitio mantenemos información útil para la coordinación del grupo de G
 * [Qué estamos haciendo](haciendo.md)
 * [Proceso completo (datos para el grupo de Getafe)](proceso.md)
 * [Coordinación (Getafe, Madrid, general)](coordinacion.md)
+* [Notas de las reuniones](reuniones/README.md)
 * [Más información útil](mas.md)
 * [Licencia y contribuciones](licencia.md)
 
