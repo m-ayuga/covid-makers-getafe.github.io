@@ -1,10 +1,10 @@
 ## Qué estamos haciendo
 
-El grupo de Madrid está, por ahora, centrado en la impresión de viseras que, complementadas con un un plástico transparente de tamaño A4 (de PVC o PET, por ejemplo de los usados en encuadernación) y con una goma de sujección, permite tener un protector facial para usar en combinación con mascarillas y otros elementos. Desde el 23 de marzo estos dispositivos están aprobados para su uso por profesionales sanitarios en la Comunidad de Madrid.
+El grupo de Madrid está, por ahora, centrado en la impresión de viseras que, complementadas con un un plástico transparente de tamaño A4 (de PVC o PET, por ejemplo de los usados en encuadernación) y con una goma de sujección, permite tener un protector facial para usar en combinación con mascarillas y otros elementos. Entre el 23 y el 28 de marzo uno de estos dispositivos ha estado aprobado para su uso por profesionales sanitarios en la Comunidad de Madrid. Estamos pendientes de más información sobre modelos recomendados y aceptados. Mientras tanto, seguimos fabricando para los profesionales que están demandando nuestra producción.
 
-Los modelos a imprimir son:
+Los modelos que estamos imprimiendo son:
 
-* [Modelo aprobado por la Comunidad de Madrid para uso sanitario](#aprobado), recomendado para imprimir salvo que tengas problemas debido a las características de tu impresora.
+* [Modelo que estuvo aprobado por la Comunidad de Madrid para uso sanitario](#aprobado), recomendado para imprimir salvo que tengas problemas debido a las características de tu impresora.
 
 * [Modelo diseñado por el 3D Fab Lab en el Hospital Gregorio Marañón](#gregorio), más simple de imprimir, puedes imprimirla si tienes problemas con el otro modelo.
 
@@ -14,7 +14,7 @@ Ambos modelos se completan con una pantalla de plástico transparente (normalmen
 
 Cuando tengas un lote de piezas 3D listo para que te lo recojan, sigue el [procedimiento de recogida](proceso). No hace falta que dispongas de las pantallas de plástico, o de las gomas que complementan el modelo aprobado por la Comunidad de Madrid: estamos organizando [donaciones](#donaciones) de láminas y gomas que incorporaremos a lo que fabriques.
 
-### <a name="aprobado">Modelo aprobado por la Comunidad de Madrid</a>
+### <a name="aprobado">Modelo que estuvo aprobado por la Comunidad de Madrid</a>
 
 Este modelo puede imprimirse en impresoras con cama de 20x20cm.
 
