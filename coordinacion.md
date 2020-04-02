@@ -20,6 +20,10 @@ Es recomendable que te apuntes al menos al canal de noticias, y luego a los grup
 * [Logística](https://t.me/joinchat/N3nb20vhjKKdFRdU1ezZ0Q): Qué hacer para que lo que hemos fabricado llegue a quien lo pueda usar (puntos y protocolos de recogida, cómo preparar el material, etc.)
 * [General](https://t.me/joinchat/N3nb2xyLiFs4H2UzlqZL5w): Otros temas relacionados con la coordinación del grupo
 
+Documentos elaborados para la coordinación de actividades:
+
+* [Plan de comunicación](Plan_de_Comunicación_Makers_Getafe-2020-04-02.pdf) (2 de abril de 2020).
+
 ### Puntos de coordinación (Comunidad de Madrid)
 
 * Sitio web [COVIDMadrid.com](https://covidmadrid.com/): Sitio específico para información de coordinación de lo que se está haciendo en la Comunidad de Madrid.
