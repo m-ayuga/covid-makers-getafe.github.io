@@ -22,6 +22,8 @@
 
 * Las personas que se encargan de las recogidas recogerán la bolsa de tu domicilio y la hoja de recogida, y las llevarán al almacén. Allí se organizará su reparto vía Protección Civil de Getafe, que los entregará al hospital u otros organismos necesitados.
 
+![Flujo de materiales y faricación](flujos_materiales.jpg)
+
 ### <a name="desinfeccion">Desinfección y empaquetado de material</a>
 
 **Atención: Este proceso deberá realizarse con guantes y mascarilla, para evitar que los materiales que producimos vayan infectados. Al terminar el proceso, es importante realizar una buena limpieza de manos.**
