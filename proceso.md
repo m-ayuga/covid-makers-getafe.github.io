@@ -28,32 +28,19 @@
 
 **Atención: Este proceso deberá realizarse con guantes y mascarilla, para evitar que los materiales que producimos vayan infectados. Al terminar el proceso, es importante realizar una buena limpieza de manos.**
 
-El proceso comienza preparando un pulverizador con líquido desinfectante. Puedes hacerlo de una de las siguientes formas:
+El protocolo de desinfección está descrito en esta ilustración:
 
-* Con gel hidro-alcohólico
+![Protocolo de desinfección](protocolo-desinfección.jpg)
 
-- Abrir el desinfectante de uso profesional como gel hidro-alcohólico
-- Introducir el gel hidro-alcohólico en un pulverizador
-
-* Con lejía:
-
-- Realizar una mezcla de lejía con agua (1 parte de lejía y 9 partes de agua)
-- Introducir la mezcla en un pulverizador
-
-* Con alcohol de 96 grados
-
-- Realizar una mezcla de alcohol de 96 con agua (7 partes de alcohol y 3 partes de agua)
-- Introducir la mezcla en un pulverizador
 
 **¡Importante!:** La solución que prepares solo es efectiva durante 24 horas.
 
-Una vez tengas el pulverizador listo, puedes continuar con el procedimiento:
+Una vez tengas el material desinfectado, puedes continuar con el procedimiento:
 
 * Prepara una bolsa TRANSPARENTE.
 * Introduce en ella la [hoja informativa de desinfección](DESINFECCION.pdf) (que habrás imprimido previamente), escribiendo en ella, en la parte superior, tu usuario de Telegram (por trazabilidad).
 * Ponte guante en la mano con la que vas a coger las viseras de una punta y rociar la visera por los dos lados, esperar a que no gotee y meterla en la bolsa transparente.
 * Realiza un proceso similar con cualquier otro elemento que incluyas en la bolsa.
-* Cuando esté todo en la bolsa, tienes que cerrarla lo más herméticamente que puedas. Para esto, puedes llenar un cubo con agua, sumerges la bolsa con los materiales dentro del cubo, sin que el agua llegue a entrar en la bolsa. Así sale el aire de la bolsa. Inmediatamente, cierra la bolsa con una pinza o un nudo, intentando que quede el mínimo de aire dentro. No olvides pulverizar después la bolsa con desinfectante.
 
 Es importante que las bolsas sean transparentes, para que quien las transporta pueda ver qué hay en ellas.
 
