@@ -21,8 +21,10 @@ Listados de viseras (protectores faciales) entregadas (no es exhaustivo, faltan 
 
 | Día         | Cantidad | Entregadas a: |
 |-------------|----------|---------------|
-| 3 de abril  | 60       | Ambulatorios y centros de salud |
-| 1 de abril  | 187      | Ejército del Aire, Bomberos CM, Protección Civil |
+| 4 de abril  | 171      | Centros de salud, Protección Civil de Bohadilla y Los Molinos |
+| 3 de abril  | 161      | Psiquiátrico Cienpozuelos, Hospital Severo Ochoa (Leganés), Residencia Tercera Edad Cantoblanco |
+| 2 de abril  | 60       | Ambulatorios y centros de salud |
+| 1 de abril  | 187      | Ejército del Aire, Bomberos CM, IFEMA, Hospital Fuenlabrada |
 | 31 de marzo | 117      | Protección Civil (Residencias de Tercera Edad) |
 | 30 de marzo | 148      | Policía Nacional, APANID, Ayuda a Domicilio, etc. |
 | 29 de marzo | 160      | Protección Civil |
