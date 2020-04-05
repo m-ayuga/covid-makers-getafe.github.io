@@ -31,3 +31,9 @@ Listados de viseras (protectores faciales) entregadas (no es exhaustivo, faltan 
 | 28 de marzo | 201      | Hospital, Residencias de Tercera Edad |
 | 27 de marzo | 120      | Residencias de Tercera Edad |
 | Anteriormente | 500    | Hospital, Protección Civil |
+
+Otros mmateriales:
+
+* A Makers de Leganés: cinta elástica (300 metros)
+* A Makers de Fuenlabrada: cinta elástica (300 metros), recibimos 300 láminas de PVC
+* A Makers de Moncloa-Aravaca: cinta elástica (100 metros) y 200 láminas de PVC
