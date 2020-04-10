@@ -1,6 +1,6 @@
-# Grupo de Getafe de Coronavirus Makers
+# Grupo CovidMakers Getafe
 
-En este sitio mantenemos información útil para la coordinación del grupo de Getafe de [Coronavirus Makers](https://www.coronavirusmakers.org).
+En este sitio mantenemos información útil para la coordinación del grupo CovidMakers Getafe.
 
 * [Novedades y noticias](novedades/README.md) 
 * [Peticiones, donaciones y datos de contacto](donaciones.md)
