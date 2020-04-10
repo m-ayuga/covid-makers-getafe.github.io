@@ -21,6 +21,9 @@ Listados de viseras (protectores faciales) entregadas (no es exhaustivo, faltan 
 
 | Día         | Cantidad | Entregadas a: |
 |-------------|----------|---------------|
+| 8 de abril  | 185      | Serranillos (100), Residencias Tercera Edad (15), Hospital Cruz Roja (70), Salvaorejas (20) a Hospital de Getafe |
+| 7 de abril  | 136      | Policía Municipal de Madrid (30), Hospital de la Princesa (106)
+| 6 de abril  | 80       | Hospital Psiquiátrico Doctor Rodríguez Lafora (80)
 | 5 de abril  | 171      | Centros de salud (100), Protección Civil de Bohadilla y Los Molinos |
 | 3 de abril  | 161      | Psiquiátrico Cienpozuelos (70), Hospital Severo Ochoa Leganés (35), Residencia Tercera Edad Cantoblanco (56)|
 | 2 de abril  | 78       | Ambulatorios y centros de salud |
