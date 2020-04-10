@@ -11,7 +11,7 @@ En este sitio mantenemos información útil para la coordinación del grupo Covi
 * [Más información útil](mas.md)
 * [Licencia y contribuciones](licencia.md)
 
-[![MAKERS GETAFE EN ACCION. Pantalla Anti Salpicadura 3D](http://img.youtube.com/vi/OjrsSroGJtQ/0.jpg)](http://www.youtube.com/watch?v=OjrsSroGJtQ "MAKERS GETAFE EN ACCION. Pantalla Anti Salpicadura 3D")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FHGc20u-NdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Coordinamos las entregas y recogidas de material y viseras con [Ayuntamiento](https://www.getafe.es/), [Policía Local](https://twitter.com/PoliciadeGetafe) y [Protección Civil](https://www.facebook.com/pages/category/Nonprofit-Organization/Protecci%C3%B3n-Civil-Getafe-Ayto-Getafe-1906091903006916/) de Getafe.
 
