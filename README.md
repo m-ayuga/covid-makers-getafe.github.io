@@ -2,7 +2,7 @@
 
 En este sitio mantenemos información útil para la coordinación del grupo CovidMakers Getafe.
 
-* [Novedades y noticias](novedades/README.md) 
+* [Novedades, noticias y producción repartida](novedades/README.md) 
 * [Peticiones, donaciones y datos de contacto](donaciones.md)
 * [Qué estamos haciendo](haciendo.md): detalles sobre fabricación
 * [Proceso completo (datos para el grupo de Getafe)](proceso.md): fabricación, recogida de lo fabricado, entrega a usuarios finales, etc.
