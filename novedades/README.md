@@ -22,6 +22,7 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
+| **TOTAL** | **2954** | **1225** | -|
 | 14 de abril |    |    730 | Protección Civil Getafe (630),  Policía Local Getafe (100)|
 | 13 de abril | 210   |  300   | GTD Mensajeros (20), Residencia Moscatelares (San Sebastián de los Reyes, 70), Clínica dental Avda de los Ángeles (5), Clínica Fisioterapia Calle Alcalde Jesús Prieto (5), Mercamadrid (10), Sanivida (100). Policía Local Getafe (300 salvaorejas) |
 | 11 de abril |       | 145 | Hospital y Residencias de Getafe (100 salvaorejas), IFEMA (40 salvaorejas), Agrupación Coser Mascarillas en Getafe (5 salvaorejas) |
