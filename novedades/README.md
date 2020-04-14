@@ -1,6 +1,6 @@
 # Novedades
 
-Última actualización: Domingo 13 de abril de 2020 a las 21:00.
+Última actualización: Martes 14 de abril de 2020 a las 13:15.
 
 * [Comunicados y notas](#comunicados)
 * [Material entregado](#entregado)
