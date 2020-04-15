@@ -1,6 +1,6 @@
 # Novedades
 
-Última actualización: Martes 14 de abril de 2020 a las 13:15.
+Última actualización: Miércoles 15 de abril de 2020 a las 17:00.
 
 * [Comunicados y notas](#comunicados)
 * [Material entregado](#entregado)
@@ -22,7 +22,8 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
-| **TOTAL** | **2954** | **1225** | -|
+| **TOTAL** | **3244** | **2875** | -| 
+| 15 de abril |  290  |    1650 | Residencia Casablanca Villaverde (50 viseras y 50 salvaorejas), Clínica Dental el Bercial (40 viseras), Hospital de Getafe (salvaorejas: 700 donadas por Pinto y 600 recogidas por Policía Local de Getafe), Protección Civil Getafe (300 salvaorejas)|
 | 14 de abril |    |    730 | Protección Civil Getafe (630),  Policía Local Getafe (100)|
 | 13 de abril | 210   |  300   | GTD Mensajeros (20), Residencia Moscatelares (San Sebastián de los Reyes, 70), Clínica dental Avda de los Ángeles (5), Clínica Fisioterapia Calle Alcalde Jesús Prieto (5), Mercamadrid (10), Sanivida (100). Policía Local Getafe (300 salvaorejas) |
 | 11 de abril |       | 145 | Hospital y Residencias de Getafe (100 salvaorejas), IFEMA (40 salvaorejas), Agrupación Coser Mascarillas en Getafe (5 salvaorejas) |
