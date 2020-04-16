@@ -24,7 +24,6 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 |-------------|---------|-------------|---------------|
 | **TOTAL** | **3339** | **3305** | -|
 | 16 de abril |  95  |    430 | Residencia Medinaceli - Getafe (30 viseras y 30 salvaorejas), Centro de rehabilitación y aprendizaje Aumenta - Fuenlabrada (20 viseras), UCI Hospital Fuenlabrada (25 viseras), Gosesa (20 viseras), Protección Civil (400 salvaorejas)|
- 
 | 15 de abril |  290  |    1650 | Residencia Casablanca Villaverde (50 viseras y 50 salvaorejas), Clínica Dental el Bercial (40 viseras), Hospital de Getafe (salvaorejas: 700 donadas por Pinto y 600 recogidas por Policía Local de Getafe), Protección Civil Getafe (300 salvaorejas)|
 | 14 de abril |    |    730 | Protección Civil Getafe (630),  Policía Local Getafe (100)|
 | 13 de abril | 210   |  300   | GTD Mensajeros (20), Residencia Moscatelares (San Sebastián de los Reyes, 70), Clínica dental Avda de los Ángeles (5), Clínica Fisioterapia Calle Alcalde Jesús Prieto (5), Mercamadrid (10), Sanivida (100). Policía Local Getafe (300 salvaorejas) |
