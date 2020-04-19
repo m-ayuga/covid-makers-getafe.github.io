@@ -22,11 +22,11 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
-| **TOTAL** | **3372** | **3865** | -|
+| **TOTAL** | **3376** | **4261** | -|
 | 18 de abril |    |    300 | Protección Civil Getafe (300 salvaorejas)|
 | 17 de abril |  33  |    560 | Protección Civil Getafe (560 salvaorejas), Clínica Ibermedic Getafe (20 viseras), comercio Fuenlabrada (13 viseras)|
-| 16 de abril |  95  |    430 | Residencia Medinaceli - Getafe (30 viseras y 30 salvaorejas), Centro de rehabilitación y aprendizaje Aumenta - Fuenlabrada (20 viseras), UCI Hospital Fuenlabrada (25 viseras), Gosesa (20 viseras), Protección Civil (400 salvaorejas)|
-| 15 de abril |  290  |    1650 | Residencia Casablanca Villaverde (50 viseras y 50 salvaorejas), Clínica Dental el Bercial (40 viseras), Hospital de Getafe (salvaorejas: 700 donadas por Pinto y 600 recogidas por Policía Local de Getafe), Protección Civil Getafe (300 salvaorejas)|
+| 16 de abril |  95  |    505 | Residencia Medinaceli - Getafe (30 viseras y 30 salvaorejas), Centro de rehabilitación y aprendizaje Aumenta - Fuenlabrada (20 viseras), UCI Hospital Fuenlabrada (25 viseras), Gosesa (20 viseras), Protección Civil (400 salvaorejas), Centro de Salud General Ricardos (75)|
+| 15 de abril |  294  |    1971 | Residencia Casablanca Villaverde (50 viseras y 50 salvaorejas), Clínica Dental el Bercial (40 viseras), Hospital de Getafe (salvaorejas: 700 donadas por Pinto y 600 recogidas por Policía Local de Getafe), Protección Civil Getafe (300 salvaorejas), Hospital de Móstoles (4 viseras, 70 salvaorejas), Hospital Infanta Leonor (30 salvaorejas), Hospital País Vasco (205 salvaorejas), Hospital La Paz (16 salvaorejas)|
 | 14 de abril |    |    730 | Protección Civil Getafe (630),  Policía Local Getafe (100)|
 | 13 de abril | 210   |  300   | GTD Mensajeros (20), Residencia Moscatelares (San Sebastián de los Reyes, 70), Clínica dental Avda de los Ángeles (5), Clínica Fisioterapia Calle Alcalde Jesús Prieto (5), Mercamadrid (10), Sanivida (100). Policía Local Getafe (300 salvaorejas) |
 | 11 de abril |       | 145 | Hospital y Residencias de Getafe (100 salvaorejas), IFEMA (40 salvaorejas), Agrupación Coser Mascarillas en Getafe (5 salvaorejas) |
