@@ -1,6 +1,6 @@
 # Novedades
 
-Última actualización: Jueves 16 de abril de 2020 a las 17:45.
+Última actualización: Domingo 19 de abril de 2020 a las 12:00.
 
 * [Comunicados y notas](#comunicados)
 * [Material entregado](#entregado)
@@ -22,7 +22,9 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
-| **TOTAL** | **3339** | **3305** | -|
+| **TOTAL** | **3376** | **4261** | -|
+| 18 de abril |    |    300 | Protección Civil Getafe (300 salvaorejas)|
+| 17 de abril |  33  |    560 | Protección Civil Getafe (560 salvaorejas), Clínica Ibermedic Getafe (20 viseras), comercio Fuenlabrada (13 viseras)|
 | 16 de abril |  95  |    430 | Residencia Medinaceli - Getafe (30 viseras y 30 salvaorejas), Centro de rehabilitación y aprendizaje Aumenta - Fuenlabrada (20 viseras), UCI Hospital Fuenlabrada (25 viseras), Gosesa (20 viseras), Protección Civil (400 salvaorejas), Centro de Salud General Ricardos (75)|
 | 15 de abril |  294  |    1971 | Residencia Casablanca Villaverde (50 viseras y 50 salvaorejas), Clínica Dental el Bercial (40 viseras), Hospital de Getafe (salvaorejas: 700 donadas por Pinto y 600 recogidas por Policía Local de Getafe), Protección Civil Getafe (300 salvaorejas), Hospital de Móstoles (4 viseras, 70 salvaorejas), Hospital Infanta Leonor (30 salvaorejas), Hospital País Vasco (205 salvaorejas), Hospital La Paz (16 salvaorejas)|
 | 14 de abril |    |    730 | Protección Civil Getafe (630),  Policía Local Getafe (100)|
@@ -46,6 +48,8 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 Otros materiales:
 
+* A bomberos Airbus: Lejía (3 garrafas de 20 litros)
+* A Protección Civil: Lejía (15 garrafas de 20 litros para que distribuya)
 * A Airbus: Bobinas (11KG)
 * A Makers Aluche / las Aguilas (500 PVCs)
 * A Airbus: acetatos y gomas (1500 de cada)
