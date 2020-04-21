@@ -1,6 +1,6 @@
 # Novedades
 
-Última actualización: Lunes 20 de abril de 2020 a las 13:00.
+Última actualización: Martes 21 de abril de 2020 a las 13:45.
 
 * [Comunicados y notas](#comunicados)
 * [Material entregado](#entregado)
@@ -22,7 +22,8 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
-| **TOTAL** | **3386** | **5611** | -|
+| **TOTAL** | **3506** | **6781** | -|
+| 21 de abril |  120  |    1170 | Protección Civil Getafe (1000 salvaorejas y 47 salvaorejas), El Alamo (70 viseras y 20 salvaorejas)|
 | 20 de abril |    |    1000 | Protección Civil Getafe (1000 salvaorejas)|
 | 19 de abril |  10  |    350 | Protección Civil Getafe (350 salvaorejas), peluquería (10 viseras)|
 | 18 de abril |    |    300 | Protección Civil Getafe (300 salvaorejas)|
