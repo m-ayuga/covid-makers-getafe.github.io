@@ -1,6 +1,6 @@
 # Novedades
 
-Última actualización: Martes 21 de abril de 2020 a las 13:45.
+Última actualización: Miércoles 22 de abril de 2020 a las 19:50.
 
 * [Comunicados y notas](#comunicados)
 * [Material entregado](#entregado)
@@ -22,7 +22,8 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
-| **TOTAL** | **3503** | **6781** | -|
+| **TOTAL** | **3526** | **7161** | -|
+| 22 de abril |  23  |    380 | Protección Civil (380 salvaorejas), Serranillos del Vall (13 viseras), Bomberos CAM (10 viseras) |
 | 21 de abril |  117  |    1170 | Protección Civil Getafe (1000 salvaorejas), Metro de Madrid (47 viseras), UCI Ramón y Cajal (150 salvaorejas), El Alamo (70 viseras y 20 salvaorejas)|
 | 20 de abril |    |    1000 | Protección Civil Getafe (1000 salvaorejas)|
 | 19 de abril |  10  |    350 | Protección Civil Getafe (350 salvaorejas), peluquería (10 viseras)|
