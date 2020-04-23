@@ -23,18 +23,18 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
 | **TOTAL** | **3526** | **7161** | -|
-| 22 de abril |  23  |    380 | Protección Civil (380 salvaorejas), Serranillos del Vall (13 viseras), Bomberos CAM (10 viseras) |
-| 21 de abril |  117  |    1170 | Protección Civil Getafe (1000 salvaorejas), Metro de Madrid (47 viseras), UCI Ramón y Cajal (150 salvaorejas), El Alamo (70 viseras y 20 salvaorejas)|
+| 22 de abril |  25  |    522 | Protección Civil (380 salvaorejas), Serranillos del Vall (13 viseras), Bomberos CAM (10 viseras), Hospital Veterinario Parla Sur (20 salvaorejas), Hospital HM Vallés Alcalá de Henares (2 viseras y 82 salvaorejas), Hospital de Vallecas (40 salvaorejas) |
+| 21 de abril |  117  |    1270 | Protección Civil Getafe (1000 salvaorejas), Hospital de Getafe (20 salvaorejas) Metro de Madrid (47 viseras), UCI Ramón y Cajal (150 salvaorejas), El Alamo (70 viseras y 20 salvaorejas), Hospital de Móstoles (80 salvaorejas)|
 | 20 de abril |    |    1000 | Protección Civil Getafe (1000 salvaorejas)|
 | 19 de abril |  10  |    350 | Protección Civil Getafe (350 salvaorejas), peluquería (10 viseras)|
-| 18 de abril |    |    300 | Protección Civil Getafe (300 salvaorejas)|
-| 17 de abril |  33  |    560 | Protección Civil Getafe (560 salvaorejas), Clínica Ibermedic Getafe (20 viseras), comercio Fuenlabrada (13 viseras)|
+| 18 de abril |    |    337 | Protección Civil Getafe (300 salvaorejas), Hospital de Móstoles (37 salvaorejas)|
+| 17 de abril |  33  |    782 | Protección Civil Getafe (560 salvaorejas), Clínica Ibermedic Getafe (20 viseras), Hospital Getafe (51 salvaorejas), comercio Fuenlabrada (13 viseras), Correos Nexea (114 salvaorejas), Hospital La Paz (36 salvaorejas), Hospital 12 de Octubre (6 salvaorejas), Hospital La Princesa (15 salvaorejas)|
 | 16 de abril |  95  |    430 | Residencia Medinaceli - Getafe (30 viseras y 30 salvaorejas), Centro de rehabilitación y aprendizaje Aumenta - Fuenlabrada (20 viseras), UCI Hospital Fuenlabrada (25 viseras), Gosesa (20 viseras), Protección Civil (400 salvaorejas), Centro de Salud General Ricardos (75)|
 | 15 de abril |  294  |    1971 | Residencia Casablanca Villaverde (50 viseras y 50 salvaorejas), Clínica Dental el Bercial (40 viseras), Hospital de Getafe (salvaorejas: 700 donadas por Pinto y 600 recogidas por Policía Local de Getafe), Protección Civil Getafe (300 salvaorejas), Hospital de Móstoles (4 viseras, 70 salvaorejas), Hospital Infanta Leonor (30 salvaorejas), Hospital País Vasco (205 salvaorejas), Hospital La Paz (16 salvaorejas)|
-| 14 de abril |    |    730 | Protección Civil Getafe (630),  Policía Local Getafe (100)|
+| 14 de abril | 10  |    752 | Protección Civil Getafe (630),  Policía Local Getafe (100), Ayuntamiento de Arroba de los Montes (Ciudad Real, 10 viseras, 22 salvaorejas|
 | 13 de abril | 210   |  300   | GTD Mensajeros (20), Residencia Moscatelares (San Sebastián de los Reyes, 70), Clínica dental Avda de los Ángeles (5), Clínica Fisioterapia Calle Alcalde Jesús Prieto (5), Mercamadrid (10), Sanivida (100). Policía Local Getafe (300 salvaorejas) |
 | 11 de abril |       | 153 | Hospital y Residencias de Getafe (100 salvaorejas), IFEMA (40 salvaorejas), Agrupación Coser Mascarillas en Getafe (5 salvaorejas), Hospital de Getafe (8 salvaorejas) |
-| 10 de abril | 290   | 85  | Cruz Roja Getafe (10), Empresa de reparto (Getafe, 10), Residencia Geriasa de Brunete (150), Residencia Amavir de Cenicientos (50), Arroba de los Montes (Ciudad Real, 70 visesras y 30 salvaorejas), Hospital de Getafe (55 salvaorejas) |
+| 10 de abril | 290   | 85  | Cruz Roja Getafe (10), Empresa de reparto (Getafe, 10), Residencia Geriasa de Brunete (150), Residencia Amavir de Cenicientos (50), Ayuntamiento de Arroba de los Montes (Ciudad Real, 70 visesras y 30 salvaorejas), Hospital de Getafe (55 salvaorejas) |
 | 9 de abril  | 110   |     | UVI móvil y SUMMA Getafe (40), Bomberos de La Manga (70) |
 | 8 de abril  | 185   | 20  | Serranillos (100), Residencias Tercera Edad (15), Hospital Cruz Roja (70), Salvaorejas (20) a Hospital de Getafe |
 | 7 de abril  | 136   |     | Policía Municipal de Madrid (30), Hospital de la Princesa (106)
