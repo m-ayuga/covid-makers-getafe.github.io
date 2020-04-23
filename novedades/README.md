@@ -22,7 +22,7 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
-| **TOTAL** | **3542** | **7431** | -|
+| **TOTAL** | **3582** | **8242** | -|
 | 23 de abril |  16  |    270 | Protección Civil (80 salvaorejas)|
 | 22 de abril |  25  |    522 | Protección Civil (380 salvaorejas), Serranillos del Vall (13 viseras), Bomberos CAM (10 viseras), Hospital Veterinario Parla Sur (20 salvaorejas), Hospital HM Vallés Alcalá de Henares (2 viseras y 82 salvaorejas), Hospital de Vallecas (40 salvaorejas) |
 | 21 de abril |  117  |    1270 | Protección Civil Getafe (1000 salvaorejas), Hospital de Getafe (20 salvaorejas) Metro de Madrid (47 viseras), UCI Ramón y Cajal (150 salvaorejas), El Alamo (70 viseras y 20 salvaorejas), Hospital de Móstoles (80 salvaorejas)|
