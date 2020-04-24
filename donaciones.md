@@ -2,7 +2,7 @@
 
 ### Peticiones
 
-Si necesitas alguno de los elementos que fabricamos, por favor, contacta con Proteción Civil de Getafe, teléfono 606441304. Cuando llames, explica que necesitas parte de lo que está produciendo el grupo CovidGetafe Makers.
+Si necesitas alguno de los elementos que fabricamos, por favor, utliza [nuestro formulario de peticiones y donaciones](https://forms.gle/9Kx28h5UoWYbexhH8).
 
 ### Donaciones
 
@@ -17,7 +17,7 @@ Listado de materiales que necesitamos normalmente (por favor, contacta para cono
 * PLA de 1.75mm de diámetro (cualquier color)
 * Bolsas herméticas transparentes
 
-Si quieres realizar una donación, envíanos un mensaje de correo electrónico
+Si quieres realizar una donación, utiliza [nuestro formulario de peticiones y donaciones](https://forms.gle/9Kx28h5UoWYbexhH8).
 
 ### Datos de contacto
 
