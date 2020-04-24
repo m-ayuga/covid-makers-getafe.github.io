@@ -2,7 +2,7 @@
 
 ### Peticiones
 
-Si necesitas alguno de los elementos que fabricamos, por favor, utliza [nuestro formulario de peticiones y donaciones](https://forms.gle/9Kx28h5UoWYbexhH8).
+Si necesitas alguno de los elementos que fabricamos, por favor, utiliza nuestros formularios de peticiones y donaciones para pedirlo y organizar el envío o la recogida: [formulario COVID Makers Getafe](https://forms.gle/9Kx28h5UoWYbexhH8) o [formulario Coronavirus Makers Comunidad de Madrid](https://forms.gle/yfysupwGM9TckK1n8).
 
 ### Donaciones
 
@@ -17,7 +17,7 @@ Listado de materiales que necesitamos normalmente (por favor, contacta para cono
 * PLA de 1.75mm de diámetro (cualquier color)
 * Bolsas herméticas transparentes
 
-Si quieres realizar una donación, utiliza [nuestro formulario de peticiones y donaciones](https://forms.gle/9Kx28h5UoWYbexhH8).
+Si quieres realizar una donación, por favor utiliza nuestros formularios de peticiones y donaciones para informar de tu donación y organizar el envío o recogida: [formulario COVID Makers Getafe](https://forms.gle/9Kx28h5UoWYbexhH8) o [formulario Coronavirus Makers Comunidad de Madrid](https://forms.gle/yfysupwGM9TckK1n8).
 
 ### Datos de contacto
 
