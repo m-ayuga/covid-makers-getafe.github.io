@@ -1,5 +1,7 @@
 ## Canales de coordinación e información
 
+Si quieres contactar con nostoros, solicitar material del que estamos fabricando, o realizarnos una donación de materiales necesarios para la fabricación, por favor consulta la [página de donaciones, peticiones y datos de contacto](/donaciones.md).
+
 ### Grupo CovidMakers Getafe
 
 El mecanismo principal de coordinación que usamos es Telegram: apúntate a los canales que te interesen. 
@@ -15,10 +17,11 @@ Grupos y canales en Telegram (grupo de Getafe):
 
 Es recomendable que te apuntes al menos al canal de noticias, y luego a los grupos que te puedan interesar. Intenta mantener el tema de tus mensajes dentro del tema del grupo en el que escribas:
 
-* [Noticias](https://t.me/cv19getafenoticias): Canal de noticias, con la principal información para estar al día.
+* [Noticias](https://t.me/cv19getafenoticias): Canal de noticias, con la principal información para estar al día. Muy pocos mensajes, ideal para estar al tanto de las principales novedades.
 * [Fabricación](https://t.me/joinchat/N3nb20yJIMnOrUPWXF8w3g): Aspectos específicos relacionados con la fabricación (qué estamos fabricando, parámetros de impresión, problemas al imrimir, etc.)
-* [Logística](https://t.me/joinchat/N3nb20vhjKKdFRdU1ezZ0Q): Qué hacer para que lo que hemos fabricado llegue a quien lo pueda usar (puntos y protocolos de recogida, cómo preparar el material, etc.)
-* [General](https://t.me/joinchat/N3nb2xyLiFs4H2UzlqZL5w): Otros temas relacionados con la coordinación del grupo
+* [Información](https://t.me/joinchat/N3nb2xyLiFs4H2UzlqZL5w): Otros temas relacionados con la coordinación del grupo, información general, etc.
+
+Para la coordinación de todo esto, tenemos varios grupos de voluntarios: General, Comunicacíon, Donaciones, Logística, Web, Diseño y Asistencia Técnica y Almacén. Si quieres colaborar en alguno de ellos, ¡dínoslo!
 
 Documentos elaborados para la coordinación de actividades:
 
