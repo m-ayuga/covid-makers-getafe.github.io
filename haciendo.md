@@ -4,7 +4,7 @@ El grupo de Madrid está, por ahora, centrado en la impresión de viseras y salv
 
 Conviene que antes de empezar a imprimir (especialmente si vas a fabricar viseras) sigas estas [instrucciones de calibración para tu impresora](#calibracion).
 
-Los modelos que estamos imprimiendo son los que puedes ver en la **[carpeta de archivos de impresión](https://drive.google.com/drive/folders/1s5EEW6X9stm7J_IWF1VEbfe5OysMYGkx?usp=sharing)**, donde los podrás encontrar por orden de preferencia de fabricación (según la información de que dispone el grupo de coordinación). En general, las viseras son más lentas de fabricar que los salvaorejas, y requieren más precisión, así que elige lo que vayas a fabricar teniendo en cuenta también las características de tu impresora.
+Los modelos que estamos imprimiendo son los que puedes ver en la **[carpeta de archivos de impresión](https://drive.google.com/drive/folders/1y5VXhVkt2rt9M6kXWbEymleaHbHLJWUH?usp=sharing)**, donde los podrás encontrar por orden de preferencia de fabricación (según la información de que dispone el grupo de coordinación). En general, las viseras son más lentas de fabricar que los salvaorejas, y requieren más precisión, así que elige lo que vayas a fabricar teniendo en cuenta también las características de tu impresora.
 
 Todos los modelos de visera se completan con una pantalla de plástico transparente (normalmente una lámina tamaño A4). Puedes ver más [detalles sobre las características de estas pantallas](#pantallas).
 
@@ -42,7 +42,7 @@ Es recomendable estar atento a las primeras capas, para interrumpir la impresió
 
 AVISO: NO SE DEBE ESCALAR EL MODELO, debe imprimirse con las dimensiones que tienen los ficheros STL.
 
-Montaje: Puedes ver un [vídeo con detalles](https://youtu.be/OjrsSroGJtQ) sobre el montaje, y sobre cómo queda la visera una vez impresa. Puedes ver también las [instrucciones detalladas de impresión](https://wikifactory.com/+covidmakersmadrid/visera-hospitales), donde verás alguna foto.
+Montaje: Puedes ver las [instrucciones detalladas de impresión](https://wikifactory.com/+covidmakersmadrid/visera-hospitales), donde verás alguna foto.
 
 
 ### <a name="gregorio">Modelo del Gregorio Marañón</a>
