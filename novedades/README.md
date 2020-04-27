@@ -1,6 +1,6 @@
 # Novedades
 
-Última actualización: Jueves 23 de abril de 2020 a las 16:00.
+Última actualización: Lunes 27 de abril de 2020 a las 19:00.
 
 * [Comunicados y notas](#comunicados)
 * [Material entregado](#entregado)
@@ -22,7 +22,11 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
-| **TOTAL** | **3582** | **8242** | -|
+| **TOTAL** | **3736** | **11449** | -|
+| 27 de abril |  63  | 866 | Protección Civil (811 salvaorejas y 39 viseras), Correos de Daganzo (10 salvaorejas), Comercios varios (10 viseras), Clínica Ruber (8 viseras y 15 salvaorejas), Farmacia los Molinos (6 viseras y 30 salvaorejas) |
+| 26 de abril |  38  | 172 | Protección Civil (147 salvaorejas y 38 viseras), Hospital Puerta de Hierro - Majadahonda (25 salvaorejas) |
+| 25 de abril |  14  | 1049 | Protección Civil (598 salvaorejas y 14 viseras), Hospital de Basaurto - Bilbao (351 salvaorejas), Centro de Salud y Correos de Coria - Extremadura (100) |
+| 24 de abril |  39  | 1120 | Protección Civil (1080 salvaorejas y 39 viseras), John Deere (40 salvaorejas) |
 | 23 de abril |  16  |    270 | Protección Civil (80 salvaorejas)|
 | 22 de abril |  25  |    522 | Protección Civil (380 salvaorejas), Serranillos del Vall (13 viseras), Bomberos CAM (10 viseras), Hospital Veterinario Parla Sur (20 salvaorejas), Hospital HM Vallés Alcalá de Henares (2 viseras y 82 salvaorejas), Hospital de Vallecas (40 salvaorejas) |
 | 21 de abril |  117  |    1270 | Protección Civil Getafe (1000 salvaorejas), Hospital de Getafe (20 salvaorejas) Metro de Madrid (47 viseras), UCI Ramón y Cajal (150 salvaorejas), El Alamo (70 viseras y 20 salvaorejas), Hospital de Móstoles (80 salvaorejas)|
