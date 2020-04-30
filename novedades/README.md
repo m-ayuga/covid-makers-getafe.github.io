@@ -1,6 +1,6 @@
 # Novedades
 
-Última actualización: Miércoles 29 de abril de 2020 a las 20:45.
+Última actualización: Jueves 30 de abril de 2020 a las 17:00.
 
 * [Comunicados y notas](#comunicados)
 * [Material entregado](#entregado)
@@ -22,7 +22,8 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
-| **TOTAL** | **3901** | **13164** | -|
+| **TOTAL** | **3927** | **13877** | -|
+| 30 de abril | 26   | 713 |Protección Civil (671 salvaorejas), Hospital Leganés (26 viseras y 42 salvaorejas)|
 | 29 de abril |    | 910 |Protección Civil (810 salvaorejas), Hospital Ramón y Cajal (100 salvaorejas)|
 | 28 de abril |  165  | 805 |Protección Civil (350 salvaorejas), Prusa a Leganés, Alcorcón, Getafe, Carranque e Illescas (165 viseras y 165 salvaorejas), Hospital San Rafael (100 salvaorejas), Reisdencia ancianos Getafe (90 salvaorejas) |
 | 27 de abril |  63  | 866 | Protección Civil (811 salvaorejas y 39 viseras), Correos de Daganzo (10 salvaorejas), Comercios varios (10 viseras), Clínica Ruber (8 viseras y 15 salvaorejas), Farmacia los Molinos (6 viseras y 30 salvaorejas) |
