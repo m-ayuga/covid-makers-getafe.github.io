@@ -1,12 +1,15 @@
 # Novedades
 
 Última actualización: Jueves 30 de abril de 2020 a las 17:00.
+Última actualización: Lunes 4 de Mayo de 2020 a las 17:00.
 
 * [Comunicados y notas](#comunicados)
 * [Material entregado](#entregado)
 
 ## <a name="comunicados">Comunicados y notas</a>
 
+* 4 de mayo: [Resumen Reunión 2 de Mayo Makers Getafe](02 MAYO MAKERS.pdf)
+* 4 de mayo: [Comunicado CORONAVIRUSMAKERS MADRID](COMUNICADO INTERNO A TODO CVMM.pdf)
 * 10 de abril: [Video de CovidMakers Getafe](https://youtu.be/FHGc20u-NdQ)
 * 3 de abril: [Comunicado CovidMakers Getafe](2020-04-23-comunicado.md)
 * 1 de abril: [Nota informativa](2020-04-01-nota.md)
@@ -22,7 +25,9 @@ Listados de viseras (protectores faciales) y salvaorejas entregadas (no es exhau
 
 | Día         | Viseras | Salvaorejas | Entregadas a: |
 |-------------|---------|-------------|---------------|
-| **TOTAL** | **3927** | **13877** | -|
+| **TOTAL** | **4146** | **16177** | -|
+| 2 de mayo | 139   | 1446 | Reparto directo (1446 salvaorejas y 139 viseras)|
+| 1 de mayo | 81   | 854 |Protección Civil (400 salvaorejas y 70 viseras), Hospital de la Princesa (100 salvaorejas y 2 viseras), Empresa Privada (350 salvaorejas), varios (4 salvaorejas y 9 viseras)|
 | 30 de abril | 26   | 713 |Protección Civil (671 salvaorejas), Hospital Leganés (26 viseras y 42 salvaorejas)|
 | 29 de abril |    | 910 |Protección Civil (810 salvaorejas), Hospital Ramón y Cajal (100 salvaorejas)|
 | 28 de abril |  165  | 805 |Protección Civil (350 salvaorejas), Prusa a Leganés, Alcorcón, Getafe, Carranque e Illescas (165 viseras y 165 salvaorejas), Hospital San Rafael (100 salvaorejas), Reisdencia ancianos Getafe (90 salvaorejas) |
