@@ -1,6 +1,5 @@
 # Novedades
 
-Última actualización: Jueves 30 de abril de 2020 a las 17:00.
 Última actualización: Lunes 4 de Mayo de 2020 a las 17:00.
 
 * [Comunicados y notas](#comunicados)
